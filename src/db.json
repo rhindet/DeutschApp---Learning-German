@@ -1,0 +1,85 @@
+{
+
+    "verbos": [
+        {
+          "id": 1,
+          "palabra": "horen",
+          "traduccion": "escuchar"
+          
+        
+        },
+        {
+            "id": 2,
+            "palabra": "haben",
+            "traduccion": "tener"
+        },
+        {
+            "id": 3,
+            "palabra": "machen",
+            "traduccion": "hacer"
+        },
+        {
+            "id": 4,
+            "palabra": "sein",
+            "traduccion": "ser/estar"
+        },
+        {
+            "id": 5,
+            "palabra": "werden ",
+            "traduccion": "ponerse"
+        },
+        {
+            "id": 6,
+            "palabra": "sagen",
+            "traduccion": "decir"
+        },
+        {
+            "id": 7,
+            "palabra": "kommen ",
+            "traduccion": "venir"
+        },
+        {
+            "id": 8,
+            "palabra": "gehen",
+            "traduccion": "ir"
+        },
+        {
+            "id": 9,
+            "palabra": "geben",
+            "traduccion": "dar"
+        },
+        {
+            "id": 10,
+            "palabra": "heißen",
+            "traduccion": "llamarse"
+        },
+        {
+            "id": 12,
+            "palabra": "finden",
+            "traduccion": "encontrar"
+        },
+        {
+            "id": 13,
+            "palabra": "sehen",
+            "traduccion": "ver"
+        },
+        {
+            "id": 14,
+            "palabra": "mögen",
+            "traduccion": "gustar"
+        },
+        {
+            "id": 15,
+            "palabra": "fahren",
+            "traduccion": "conducir,ir"
+        },
+        {
+            "id": 16,
+            "palabra": "bleiben",
+            "traduccion": "quedarse"
+        }
+        
+    ]
+    
+
+}

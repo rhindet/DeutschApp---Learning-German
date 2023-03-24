@@ -1,0 +1,42 @@
+{
+
+    "modales": [
+        {
+          "id": 1,
+          "palabra": "können",
+          "traduccion": "can"
+          
+        
+        },
+        {
+            "id": 2,
+            "palabra": "müssen",
+            "traduccion": "must"
+        },
+        {
+            "id": 3,
+            "palabra": "sollen",
+            "traduccion": "should"
+        },
+        {
+            "id": 4,
+            "palabra": "dürfen",
+            "traduccion": "may"
+        },
+        {
+            "id": 5,
+            "palabra": "möchten",
+            "traduccion": "would like"
+        },
+        {
+            "id": 6,
+            "palabra": "wollen",
+            "traduccion": "want"
+        }
+        
+    
+        
+    ]
+    
+
+}

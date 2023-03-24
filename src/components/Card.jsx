@@ -13,25 +13,31 @@ const Card = ({verb}) => {
 
    
   const flipCard = () =>{
-
-
-       if(flipped === false){
-            setVerbo(traduccion)
-            setColor('color')
-            setFlipped(true)
-       }else{
-        setVerbo(palabra)
-        setFlipped(false)
-        setColor('')
-       }
+       
+     setVerbo(traduccion)
+     setColor('color')
+     setFlipped(true)
+     
         
   }
+
+     const cambiarColor = () => {
+          setVerbo(palabra)
+          setFlipped(false)
+          setColor('')
+         
+
+     }
+
   return (
-    <button 
+   <>
+      <button 
     onClick={flipCard}
+    onMouseLeave={cambiarColor}
     className={ `card-item ${color}`}>
        {verbo}
     </button>
+   </>
   )
 }
 

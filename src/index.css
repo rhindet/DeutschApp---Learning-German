@@ -13,6 +13,9 @@
 }
 .nav a {
   margin-right: 1rem;
+  font-size: 2rem;
+  border-bottom: 2px solid #fff;
+
 }
 .nav-items{
   color: #fff;
@@ -25,13 +28,14 @@
   grid-gap: 10px;
   background-color: #2196F3;
   padding: 10px;
+  border-radius: .5rem;
 }
 
  .card-item{
   background-color: rgba(255, 255, 255, 0.8);
   text-align: center;
   padding: 20px 0;
-  font-size: 30px;
+  font-size: 1.7rem;
   border: 0;
   line-height: normal;
   overflow: visible;
@@ -39,6 +43,8 @@
   -webkit-appearance: button; /* for input */
   -moz-user-select: none;
    -ms-user-select: none;
+   box-shadow: 0 0 6px rgb(148, 82, 255);
+   border-radius: .5rem;
 }
 
 .card-item h1{
@@ -51,7 +57,7 @@
   font-weight: 900;
 }
 
-/* //deja de ser celular */
+/*deja de ser celular */
 @media (min-width: 576px) { 
   .container{
     display: grid;
